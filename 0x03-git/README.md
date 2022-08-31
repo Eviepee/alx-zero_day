@@ -1,1 +1,2 @@
-This is my own readme
+Hi 
+This is my personal readme document 
